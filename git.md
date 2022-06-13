@@ -4,7 +4,7 @@ git add <FILE>
 git add .
 
 git commit -m 'COMMENT'
-
+git commit -a -m 'COMMENT'
 
 geänderte Dateien
 git diff --name-status firstbranch..yourBranchName
