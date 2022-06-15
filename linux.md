@@ -7,7 +7,6 @@
 	<th align="center">RedHat, Fedora, openSUSE<br>(rpm)</th>
 	<th align="center">Debian; Ubuntu<br>(dpkg)</th>
 </tr>
-<tr>
 </table>
 
 <table>
