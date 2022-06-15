@@ -43,8 +43,8 @@ git config --global user.email "my@email"
 
 ## New Repository
 ### new Empty Project
-git clone https://gitlab.com/<user>/<project>.git<br>
-cd <project><br>
+git clone https://gitlab.com/&lt;user&gt;/&lt;project&gt;.git<br>
+cd ;project&gt;<br>
 git switch -c main<br>
 touch README.md<br>
 git add README.md<br>
@@ -54,14 +54,14 @@ git push -u origin main
 ## new Empty Project, folder exists
 cd <existing_folder><br>
 git init --initial-branch=main<br>
-git remote add origin https://gitlab.com/<user>/<project>.git<br>
+git remote add origin https://gitlab.com/&lt;user&gt;/&lt;project&gt;.git<br>
 git add .<br>
 git commit -m "Initial commit"<br>
 git push -u origin main<br>
 
 ## existing git Project
-cd <existing_repo><br>
+cd &lt;existing_repo&gt;<br>
 git remote rename origin old-origin<br>
-git remote add origin https://gitlab.com/<user>/<project>.git<br>
+git remote add origin https://gitlab.com/&lt;user&gt;/&lt;project&gt;.git<br>
 git push -u origin --all<br>
 git push -u origin --tags
