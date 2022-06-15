@@ -15,7 +15,8 @@
 	<th align="center">openSUSE<br>(zypper)</th>
 	<th align="center">RedHat, Fedora</th>
 	<th align="center">Debian; Ubuntu<br>(yum)</th>
-	<th align="center">Arch, Manjaro(pacman)</th>
+	<th align="center">Arch, Manjaro<br>(pacman)</th>
+	<th align="center">Slackware<br></th>
 </tr>
 <tr>
 	<td>
