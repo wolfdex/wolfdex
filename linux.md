@@ -15,6 +15,7 @@
 	<th align="center">openSUSE<br>(zypper)</th>
 	<th align="center">RedHat, Fedora</th>
 	<th align="center">Debian; Ubuntu<br>(yum)</th>
+	<th align="center">Arch, Manjaro(pacman)</th>
 </tr>
 <tr>
 	<td>
@@ -41,7 +42,12 @@
 		apt-cache search string; apt search string<br>
 		apt-cache policy package; apt list -a package<br>
 		apt-cache show package; apt show package<br>
-		apt-cache showpkg package; apt show -a package</td>
+		apt-cache showpkg package; apt show -a package
+		</td>
+		<td>
+			pacman
+		</td>
+			
 	</tr>
 </table>
 
