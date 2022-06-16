@@ -66,12 +66,16 @@ https://wiki.ubuntuusers.de/
 		apt-cache policy package; apt list -a package<br>
 		apt-cache show package; apt show package<br>
 		apt-cache showpkg package; apt show -a package
-		</td>
-		<td>
-			pacman
-		</td>
-			
-	</tr>
+	</td>
+	<td>
+			pacman-key --init<br>
+			pacman-key --refresh-keys<br>
+			pacman-key --populate<br>
+			<hr>
+			pacman -Syuw<br>
+			pacman -S foo<br>
+	</td>
+</tr>
 </table>
 
 lsof | grep deleted
