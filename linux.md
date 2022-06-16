@@ -152,7 +152,7 @@ whoami
 
 chmod
 
-chwon
+chown
 
 # Filesystem
 
@@ -191,7 +191,7 @@ ssh -p PORT user@host
 ## scp - filetransfert
 
 ### from client to server
-scp FILE server:/tmp
+scp FILE server:/TARGET
 
 ### from server to client
 scp server:/DIRECTORY/*.EXT /TARGET
@@ -200,10 +200,10 @@ scp -r server:/DIRECTORY /TARGET
 
 ## rsync
 
-rsync -a /home /backups/
+rsync -a /SOURCE /TARGET/
 
 
-rsync -avz /home server:/DIRECTORY/
+rsync -avz /SOURCE server:/DIRECTORY/
 
 # editoren konsole
 vi, vim, nvim, nano, joe
