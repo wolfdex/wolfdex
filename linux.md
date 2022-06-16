@@ -80,9 +80,73 @@ https://wiki.ubuntuusers.de/
 
 lsof | grep deleted
 
+# files and directorys
+
+ls [-l | -a]
+
+cd
+
+pushd targetdirectory
+
+pushd
+
+popd
+
+cp
+
+mv
+
+rm
+
+cat
+
+less
+
+file
+
+# packing
+
+tar -xvzf file.tgz
+
+tar -cvzf target.tgz source
+
+unzip
+
+zip
+
+
+# System
+
+pwd
+
+hostname
+
+whoami
+
+# user, groups
+
+chmod
+
+chwon
+
+
+
+# search
+
+locate
+
+find
+
+grep
+
+apropos keyword | grep
+
+
+
 # editoren konsole
-vi, vim, nvim
-nano
+vi, vim, nvim, nano, joe
+## 
+
 
 ## Info Tools
 neofetch, screenfetch, treefetch
