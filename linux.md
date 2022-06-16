@@ -30,6 +30,14 @@ https://wiki.ubuntuusers.de/
 	<th align="center">RedHat, Fedora, openSUSE<br>(rpm)</th>
 	<th align="center">Debian; Ubuntu<br>(dpkg)</th>
 </tr>
+<tr>
+	<td>
+		rpm -i file.rpm
+	</td>
+	<td>
+	</td>
+</tr>
+
 </table>
 
 <table>
@@ -53,6 +61,10 @@ https://wiki.ubuntuusers.de/
 		-d download only
 	</td>
 	<td>yum<br>
+		yum search keyword<br>
+		yum install package<br>
+		yum info package<br>
+		yum remove package<br>
 		yum ps (yum-utils)
 	</td>
 	<td>
@@ -79,6 +91,19 @@ https://wiki.ubuntuusers.de/
 </table>
 
 lsof | grep deleted
+
+## from Source
+
+
+tar zxvf sourcecode.tar.gz
+
+cd sourcecode
+
+./configure
+
+make
+
+make install
 
 # files and directorys
 
@@ -154,7 +179,31 @@ grep
 
 apropos keyword | grep
 
+# Fernwartung
+## ssh
 
+ssh host
+
+ssh user@host
+
+ssh -p PORT user@host
+
+## scp - filetransfert
+
+### from client to server
+scp FILE server:/tmp
+
+### from server to client
+scp server:/DIRECTORY/*.EXT /TARGET
+
+scp -r server:/DIRECTORY /TARGET
+
+## rsync
+
+rsync -a /home /backups/
+
+
+rsync -avz /home server:/DIRECTORY/
 
 # editoren konsole
 vi, vim, nvim, nano, joe
