@@ -129,6 +129,19 @@ chmod
 
 chwon
 
+# Filesystem
+
+du [-hc]
+
+df [ -h ]
+
+## quotas
+
+quota -v 
+
+## md (software raid)
+
+## LVM (volume manager)
 
 
 # search
