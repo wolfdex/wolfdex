@@ -1,5 +1,28 @@
 # Linux Cheatshet
 
+# Resources
+## Arch
+
+https://wiki.archlinux.org/
+
+## openSUSE
+
+https://de.opensuse.org/Portal:Wiki
+
+https://doc.opensuse.org/
+
+## RedHat
+https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/
+
+https://docs.openshift.com/
+
+## Debian, Ubuntu
+
+https://www.debian.org/doc/
+
+https://wiki.ubuntuusers.de/
+
+
 # SW Install, Update
 
 <table>
