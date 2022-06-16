@@ -65,3 +65,7 @@ git remote rename origin old-origin<br>
 git remote add origin https://gitlab.com/&lt;user&gt;/&lt;project&gt;.git<br>
 git push -u origin --all<br>
 git push -u origin --tags
+
+## change remote
+git remote -v<br>
+git remote set-url origin https://github.com/user/repo.git
