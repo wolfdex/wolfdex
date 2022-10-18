@@ -9,7 +9,7 @@ GITLAB: https://gitlab.com/wolfdex
 
 GITHUB: https://github.com/wolfdex
 
-openSuse: https://en.opensuse.org/User:Luriv
+openSUSE: https://en.opensuse.org/User:Luriv
 
 ### Languages and Tools 🛠️
 
