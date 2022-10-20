@@ -11,6 +11,15 @@ GITHUB: https://github.com/wolfdex
 
 openSUSE: https://en.opensuse.org/User:Luriv
 
+### Tip
+
+buy me a coffee
+
+https://ko-fi.com/wolfdex
+
+https://flattr.com/@wolfdex
+
+
 ### Languages and Tools 🛠️
 
 
