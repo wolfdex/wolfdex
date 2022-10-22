@@ -2,6 +2,8 @@
 
 I'm Marcel R., Germany.
 
+running Arch Linux, openSUSE & Debian
+
 
 ### Profiles
 
