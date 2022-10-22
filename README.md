@@ -15,7 +15,7 @@ openSUSE: https://en.opensuse.org/User:Luriv
 
 ### Tip
 
-buy me a coffee
+if you want to buy me a coffee
 
 https://ko-fi.com/wolfdex
 
