@@ -13,6 +13,11 @@ GITHUB: https://github.com/wolfdex
 
 openSUSE: https://en.opensuse.org/User:Luriv
 
+### (un)social
+
+mastodon: https://social.tchncs.de/@rawodex
+
+
 ### Tip
 
 if you want to buy me a coffee
