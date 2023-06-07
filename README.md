@@ -63,7 +63,7 @@ https://flattr.com/@wolfdex
     </td>    
     </td>
         <td align='center'>
-        <img src="    https://github.com/devicons/devicon/raw/master/icons/go/go-original.svg" alt="Logo GO" width="80">
+        <img src="https://github.com/devicons/devicon/raw/master/icons/go/go-original.svg" alt="Logo GO" width="80">
     </td>      
     
     
