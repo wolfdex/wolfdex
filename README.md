@@ -61,6 +61,10 @@ https://flattr.com/@wolfdex
         <td align='center'>
         <img src="https://github.com/devicons/devicon/raw/master/icons/php/php-original.svg" alt="Logo PHP" width="80">
     </td>    
+    </td>
+        <td align='center'>
+        <img src="    https://github.com/devicons/devicon/raw/master/icons/go/go-original.svg" alt="Logo GO" width="80">
+    </td>      
     
     
   </tr>
