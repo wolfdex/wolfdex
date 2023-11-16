@@ -42,6 +42,12 @@ https://flattr.com/@wolfdex
      <td>
         <img src="https://github.com/devicons/devicon/raw/master/icons/debian/debian-original.svg"  alt="Logo Debian" width="80"  role="img">
     </td>
+     <td>
+        <img src="https://raw.githubusercontent.com/wolfdex/wolfdex/main/invis-logo.webp"  alt="Logo Invis Server" width="80"  role="img">
+    </td>
+
+
+  
   </tr>
   
   
