@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Marcel R., Germany.
+I'm Marcel R., Germany. openSUSE Member.
 
 running Arch Linux, openSUSE & Debian
 
@@ -22,14 +22,16 @@ mastodon: https://social.tchncs.de/@rawodex
 
 if you want to buy me a coffee
 
-https://ko-fi.com/wolfdex
+- https://ko-fi.com/wolfdex
+- https://flattr.com/@wolfdex
 
-https://flattr.com/@wolfdex
+### Current Project Activites, 
+- [yapi](https://github.com/wolfdex/yapi) – yet another pattern installer
+- [Invis Server MicroBrew](https://github.com/wolfdex/invisserver-microbrew) – my own unofficial, experimental Version of Invis Server for Leap Micro
+- [Invis Server](https://github.com/invisserver) – Project Member
 
 
 ### Languages and Tools 🛠️
-
-
 
 <table>
  <tr>
@@ -45,14 +47,9 @@ https://flattr.com/@wolfdex
      <td>
         <a href="https://www.invis-server.org"><img src="https://raw.githubusercontent.com/wolfdex/wolfdex/main/assets/img/invis-logo.webp"  alt="Logo Invis Server" width="80"  role="img"></a>
     </td>
-
-
   
   </tr>
-  
-  
-  
- 
+    
 </table>
 
 <table>
