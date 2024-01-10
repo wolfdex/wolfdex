@@ -28,7 +28,7 @@ if you want to buy me a coffee
 ### Current Project Activites, 
 - [yapi](https://github.com/wolfdex/yapi) – yet another pattern installer
 - [Invis Server WildCat (MicroBrew)](https://github.com/wolfdex/InvisServerWildCat-MicroBrew) – my own unofficial, experimental Version of Invis Server for Leap Micro
-- [Invis Server WildCat (MicroBrew)](https://github.com/wolfdex/InvisServerPortal-Trailblazer) - new Portal for Invis Server
+- [Invis Server Portal (Trailblazer)](https://github.com/wolfdex/InvisServerPortal-Trailblazer) - new Portal for Invis Server
 - [Invis Server](https://github.com/invisserver) – Project Member
 
 
